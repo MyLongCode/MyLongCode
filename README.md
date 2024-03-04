@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi, I'm Mikhailov Danil! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<!--
-**MyLongCode/MyLongCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Enginner at <a href="https://urfu.ru">Ural Federal University (UrFU)</a>
+</em></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const thai = {
+  pronouns: "he" | "his",
+  code: [C#, Python, JavaScript, HTML, CSS, Java],
+  tools: [ASP.NET, React, Django],
+  architecture: ["microservices", "MVC", "MVP"],
+  techCommunities: {
+                        teamlead: "team_in_project_practice_in_university",
+                        speaker: "Algoritmika",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on ASP.NET and Python"
+}
+```
