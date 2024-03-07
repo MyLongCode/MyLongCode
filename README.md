@@ -13,6 +13,6 @@ const thai = {
                         teamlead: "team_in_project_practice_in_university",
                         speaker: "Algoritmika",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on ASP.NET, algorithms and patterns."
+ challenge: "I am doing the #100DaysOfCode challenge focused on ASP.NET, algorithms and architecture"
 }
 ```
