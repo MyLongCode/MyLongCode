@@ -6,7 +6,7 @@
 ```javascript
 const thai = {
   pronouns: "he" | "his",
-  code: [C#, Python, JavaScript, HTML, CSS, Java],
+  code: [C#, Python, JavaScript, HTML, CSS],
   tools: [ASP.NET, React, Django],
   architecture: ["microservices", "MVC", "MVP"],
   techCommunities: {
