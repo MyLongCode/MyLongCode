@@ -8,7 +8,7 @@ const thai = {
   pronouns: "he" | "his",
   code: [C#, Python, JavaScript, HTML, CSS],
   tools: [ASP.NET, React, Django],
-  architecture: ["microservices", "MVC", "MVP"],
+  architecture: ["microservices", "MVC", "MVP", "MVVM"],
   techCommunities: {
                         teamlead: "team_in_project_practice_in_university",
                         speaker: "Algoritmika",
