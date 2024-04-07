@@ -5,7 +5,7 @@
 </em></p>
 
 ```javascript
-const thai = {
+const mylongcode = {
   pronouns: "he" | "his",
   code: [C#, Python, JavaScript, HTML, CSS],
   tools: [ASP.NET, React, Postgre],
