@@ -6,7 +6,7 @@
 
 ```javascript
 const mylongcode = {
-  pronouns: "he" | "his",
+  pronouns: "he",
   code: [C#, Python, JavaScript, HTML, CSS],
   tools: [ASP.NET, React, Postgre],
   patterns: ["MVC", "MVP", "MVVM"],
