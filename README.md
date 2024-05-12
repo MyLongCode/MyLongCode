@@ -8,7 +8,7 @@
 const mylongcode = {
   pronouns: "he",
   code: [C#, Python, JavaScript, HTML, CSS],
-  tools: [ASP.NET, React, Postgre],
+  tools: [ASP.NET, Postgre],
   patterns: ["MVC", "MVP", "MVVM"],
   techCommunities: {
                         teamlead: "team_in_project_practice_in_university",
